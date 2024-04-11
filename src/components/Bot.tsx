@@ -78,7 +78,7 @@ export type BotProps = {
   observersConfig?: observersConfigType;
 };
 
-const defaultWelcomeMessage = 'Hi there! How can I help?';
+const defaultWelcomeMessage = 'Здравстуйте! Я младший консультант Алексей. Постараюсь быстро ответить на ваши вопросы, но имейте в виду, что я все еще обучаюсь, и мои решения могут быть немного некорректны. Пожалуйста, оценивайте их. Таким образом мы вместе сможем улучшить качество обслуживания.';
 
 /*const sourceDocuments = [
     {
